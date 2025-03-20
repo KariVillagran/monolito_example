@@ -48,3 +48,6 @@ La aplicación se ejecutará en el puerto configurado (por defecto, el puerto 30
 
 - **start**: Ejecuta la aplicación.
 - **test**: Muestra un mensaje de error en caso de que no existan pruebas especificadas.
+
+
+Happy Node!
